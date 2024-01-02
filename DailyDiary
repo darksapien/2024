@@ -1,0 +1,42 @@
+
+Jan 2nd 2024
+
+Arrived at the library for 07:45.
+Explored concepts for scratch project.
+Drew out symbols for 5 x 7 matrix.
+Ideas
+-Make an Arithmetic Quiz Game
+-Animate Characters by traslation, colour 
+-design a BCD type of encoder relationship between ASCII table and the actual grid out characters.
+
+Reading first 32 pages of the C rogramming book by Kalicharan.
+Key points:
+
+Define the problem.
+Analyse the problem.
+Develop an algorithm for solving the problem.
+Write a complete program which implements the algorithm.
+Test and debug the program
+Document the program
+Maintain the program
+
+Make sure to test smaller sections in isolation (as with electronics).
+Each activity should genrate/produce its own documantation.
+
+INPUT => PROCESSING => OUTPUT
+
+Technical Documentation
+The statement of the problem
+The Algorithm for solving the problem
+The program listing
+Test data and results produced by the program.
+
+
+User Documentation
+How to feed the program
+Features available inthe program
+Quirks and Edge Cases
+
+
+
+
